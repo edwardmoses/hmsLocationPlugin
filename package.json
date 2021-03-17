@@ -1,9 +1,9 @@
 {
-  "name": "com.huawei.cordovahmslocationplugin",
+  "name": "hmsLocationPlugin",
   "version": "1.0.0",
   "description": "Location Service",
   "cordova": {
-    "id": "com.huawei.cordovahmslocationplugin",
+    "id": "hmsLocationPlugin",
     "platforms": [
       "android"
     ]
